@@ -1,30 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<Skills>
-    <HardSkills><Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.>What is a client-server architecture.</Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.></HardSkills>
-    <HardSkills><Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.>HTTP Methods of requests to the server.</Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.></HardSkills>
-    <HardSkills><Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.>HTTP server response codes.</Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.></HardSkills>
-    <HardSkills><Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.>Structures of HTTP requests and responses.</Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.></HardSkills>
-    <HardSkills><Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.>What is JSON, XML. Their structure.</Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.></HardSkills>
-    <HardSkills><Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.>API testing via Postman (JS, API autotests).</Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.></HardSkills>
-    <HardSkills><Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.>Removing and reading logs from an external server.</Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.></HardSkills>
-    <HardSkills><Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.>Sniffing http web traffic via Charles and Fiddler.</Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.></HardSkills>
-    <HardSkills><Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.>Dev Tools of web browsers (Google Chrome, FireFox).</Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.></HardSkills>
-    <HardSkills><Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.>VPN. (How it works, why you need it, how to use it, tool options)</Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.></HardSkills>
-    <HardSkills><Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.>Mobile testing.</Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.></HardSkills>
-    <HardSkills><Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.>Feature iOS, Android, guidelines.</Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.></HardSkills>
-    <HardSkills><Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.>Building iOS applications on XCode. (Those who do not have a Mac computer, just look)</Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.></HardSkills>
-    <HardSkills><Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.>Building Android applications on Android Studio.</Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.></HardSkills>
-    <HardSkills><Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.>ADB (android device management).</Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.></HardSkills>
-    <HardSkills><Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.>Setting up proxy and vpn on iOS and Android.</Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.></HardSkills>
-    <HardSkills><Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.>Interception (sniffing) of mobile traffic via Charles and Fiddler on iOS and Android.</Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.></HardSkills>
-    <HardSkills><Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.>Command line (terminal) Linux (copying, creating, viewing, moving files on servers without a graphical interface)</Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.></HardSkills>
-    <HardSkills><Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.>Basics of bash scripting, automation of routine tasks on the server.</Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.></HardSkills>
-    <HardSkills><Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.>Access to remote servers.</Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.></HardSkills>
-    <HardSkills><Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.>SQL basics (Create, Delete, Drop, Insert Into, Select, From, Where, Join).</Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.></HardSkills>
-    <HardSkills><Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.>Postgres database (installation, configuration and use).</Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.></HardSkills>
-    <HardSkills><Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.>Non-relational database Redis (installation, configuration and use).</Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.></HardSkills>
-    <HardSkills><Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.>Load testing in Jmeter.</Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.></HardSkills>
-    <HardSkills><Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.>Scrum development methodology.</Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.></HardSkills>
-    <HardSkills><Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.>Test Design Techniques (Equivalence Classes, Boundary Values, Combinatorial Techniques (Pairwise, Orthogonal, Basic Choice, Every Choice), States and Transitions)</Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.></HardSkills>
-    <HardSkills><Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.>Python. (Learning the basics. Creating a client-server application)</Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.></HardSkills>
-</Skills>
+<AboutSkills>
+    <HardSkills><Skills>Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.</Skills></HardSkills>
+    <HardSkills><Skills>What is a client-server architecture.</Skills></HardSkills>
+    <HardSkills><Skills>HTTP Methods of requests to the server.</Skills></HardSkills>
+    <HardSkills><Skills>HTTP server response codes.</Skills></HardSkills>
+    <HardSkills><Skills>Structures of HTTP requests and responses.</Skills></HardSkills>
+    <HardSkills><Skills>What is JSON, XML. Their structure.</Skills></HardSkills>
+    <HardSkills><Skills>API testing via Postman (JS, API autotests).</Skills></HardSkills>
+    <HardSkills><Skills>Removing and reading logs from an external server.</Skills></HardSkills>
+    <HardSkills><Skills>Sniffing http web traffic via Charles and Fiddler.</Skills></HardSkills>
+    <HardSkills><Skills>Dev Tools of web browsers (Google Chrome, FireFox).</Skills></HardSkills>
+    <HardSkills><Skills>VPN. (How it works, why you need it, how to use it, tool options)</Skills></HardSkills>
+    <HardSkills><Skills>Mobile testing.</Skills></HardSkills>
+    <HardSkills><Skills>Feature iOS, Android, guidelines.</Skills></HardSkills>
+    <HardSkills><Skills>Building iOS applications on XCode. (Those who do not have a Mac computer, just look)</Skills></HardSkills>
+    <HardSkills><Skills>Building Android applications on Android Studio.</Skills></HardSkills>
+    <HardSkills><Skills>ADB (android device management).</Skills></HardSkills>
+    <HardSkills><Skills>Setting up proxy and vpn on iOS and Android.</Skills></HardSkills>
+    <HardSkills><Skills>Interception (sniffing) of mobile traffic via Charles and Fiddler on iOS and Android.</Skills></HardSkills>
+    <HardSkills><Skills>Command line (terminal) Linux (copying, creating, viewing, moving files on servers without a graphical interface)</Skills></HardSkills>
+    <HardSkills><Skills>Basics of bash scripting, automation of routine tasks on the server.</Skills></HardSkills>
+    <HardSkills><Skills>Access to remote servers.</Skills></HardSkills>
+    <HardSkills><Skills>SQL basics (Create, Delete, Drop, Insert Into, Select, From, Where, Join).</Skills></HardSkills>
+    <HardSkills><Skills>Postgres database (installation, configuration and use).</Skills></HardSkills>
+    <HardSkills><Skills>Non-relational database Redis (installation, configuration and use).</Skills></HardSkills>
+    <HardSkills><Skills>Load testing in Jmeter.</Skills></HardSkills>
+    <HardSkills><Skills>Scrum development methodology.</Skills></HardSkills>
+    <HardSkills><Skills>Test Design Techniques (Equivalence Classes, Boundary Values, Combinatorial Techniques (Pairwise, Orthogonal, Basic Choice, Every Choice), States and Transitions)</Skills></HardSkills>
+    <HardSkills><Skills>Python. (Learning the basics. Creating a client-server application)</Skills></HardSkills>
+</AboutSkills>
